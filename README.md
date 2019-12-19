@@ -5,9 +5,8 @@
 ## How it works
   - MySQL has a bamazonDB with a products table which contains a listing of the products,department,price and available quantity.
   - Using inquirer node package the customer is asked questions and the response accepted and the order is placed or message displayed to the customer of insufficient quantity.
+  - Based on the quantity ordered the database is updated to reflect the reduced quantity after the sale.
   
-  
-================================= 
 
 ## Tools Used
 
