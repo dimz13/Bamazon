@@ -38,5 +38,7 @@
  - More confident with the data manipulations.
  - View of the mysql bamazonDB:
 ![BamazonDB](BamazonDB.png)
+- Customer view and questions asked:
+![Customer View](bamazon-products-table.png)
 
 
