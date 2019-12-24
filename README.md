@@ -7,6 +7,8 @@
   - Using inquirer node package the customer is asked questions and the response accepted and the order is placed or message displayed to the customer of insufficient quantity.
   - Based on the quantity ordered the database is updated to reflect the reduced quantity after the sale.
   
+ # Bamazon Demo
+![bamazonCustomer](/bamazon.gif)
 
 ## Tools Used
 
